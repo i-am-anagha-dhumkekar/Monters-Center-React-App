@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Monters-Center-React-App/static/css/main.04d4eed7.css",
+    "main.js": "/Monters-Center-React-App/static/js/main.c3b9220d.js",
+    "index.html": "/Monters-Center-React-App/index.html",
+    "main.04d4eed7.css.map": "/Monters-Center-React-App/static/css/main.04d4eed7.css.map",
+    "main.c3b9220d.js.map": "/Monters-Center-React-App/static/js/main.c3b9220d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04d4eed7.css",
+    "static/js/main.c3b9220d.js"
+  ]
+}
